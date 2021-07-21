@@ -1,3 +1,4 @@
-Sitemap: https://juntechpc.ga/sitemap.xml
+Sitemap: https://juntechwebsolutions.ga/
 User-agent: *
 User-agent: Twitterbot
+
