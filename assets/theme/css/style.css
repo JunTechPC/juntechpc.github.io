@@ -690,6 +690,7 @@ input[type=range] {
 .navbar-toggler:focus,
 .navbar-toggler:hover {
   text-decoration: none;
+  box-shadow: none;
 }
 
 .navbar-toggler-icon {
@@ -924,4 +925,17 @@ blockquote {
 
 .item {
   position: relative;
+}
+
+.dropdown-menu .dropdown-menu {
+  left: 100%;
+}
+
+.dropdown-item + .dropdown-menu {
+  display: none;
+}
+
+.dropdown-item:hover + .dropdown-menu,
+.dropdown-menu:hover {
+  display: block;
 }
