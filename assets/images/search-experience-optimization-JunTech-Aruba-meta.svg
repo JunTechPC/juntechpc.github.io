@@ -22,15 +22,16 @@
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
      showgrid="false"
-     inkscape:zoom="1"
-     inkscape:cx="317.5"
-     inkscape:cy="212.5"
+     inkscape:zoom="1.6631356"
+     inkscape:cx="246.82293"
+     inkscape:cy="237.20255"
      inkscape:window-width="1920"
      inkscape:window-height="1003"
      inkscape:window-x="-9"
      inkscape:window-y="-9"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg157" />
+     inkscape:current-layer="svg157"
+     showguides="false" />
   <g
      id="Blog-Seo-Web_Design-Browser-Web"
      data-name="Blog-Seo-Web Design-Browser-Web"
@@ -73,15 +74,6 @@
        x="11"
        y="19"
        id="rect102" />
-    <rect
-       fill="#ffa733"
-       height="10"
-       rx="1"
-       width="10"
-       x="9"
-       y="37"
-       id="rect104"
-       style="fill:#5599ff" />
     <rect
        fill="#ffa733"
        height="10"
@@ -251,4 +243,27 @@
      id="circle1195-6"
      rx="2.3513498"
      ry="2.2665398" />
+  <path
+     d="M 17.227364,44.197332 H 9.1312042 a 0.95300505,0.84742741 0 0 1 -0.95192,-0.846465 v -8.520458 a 0.71274958,0.63378838 0 0 1 0.71192,-0.633077 h 8.5647798 a 0.72413675,0.64391404 0 0 1 0.7233,0.643186 v 8.510349 a 0.9530007,0.84742354 0 0 1 -0.95192,0.846465 z"
+     fill="#ffffff"
+     id="path2484"
+     style="stroke-width:0.0512941" />
+  <path
+     d="M 17.227364,44.197332 H 9.1312042 a 0.95300505,0.84742741 0 0 1 -0.95192,-0.846465 v -8.520458 a 0.71274958,0.63378838 0 0 1 0.71192,-0.633077 h 8.5647798 a 0.72413675,0.64391404 0 0 1 0.7233,0.643186 v 8.510349 a 0.9530007,0.84742354 0 0 1 -0.95192,0.846465 z M 8.8912042,34.294071 a 0.60382462,0.53693055 0 0 0 -0.60313,0.536338 v 8.520458 a 0.84408008,0.75056958 0 0 0 0.84313,0.749726 h 8.0961598 a 0.84408444,0.75057345 0 0 0 0.84313,-0.749726 v -8.510349 a 0.61521396,0.54705814 0 0 0 -0.61451,-0.546447 z"
+     fill="#3f3d56"
+     id="path2486"
+     style="stroke-width:0.0512941" />
+  <ellipse
+     cx="13.150122"
+     cy="37.790245"
+     fill="#00b0ff"
+     id="circle2488"
+     style="stroke-width:0.0646609"
+     rx="1.9506369"
+     ry="2.0232737" />
+  <path
+     d="m 16.275104,42.64197 h -6.25 v -0.02065 a 2.172043,2.2529245 0 0 1 2.16958,-2.250375 h 1.91083 a 2.1720436,2.2529251 0 0 1 2.16959,2.250375 z"
+     fill="#00b0ff"
+     id="path2490"
+     style="stroke-width:0.0646609" />
 </svg>
