@@ -8,7 +8,7 @@
    viewBox="0 0 622.01046 499.4108"
    version="1.1"
    id="svg2316"
-   sodipodi:docname="website-seo-audit-AWS-Aruba.svg"
+   sodipodi:docname="website-seo-audit-services-AWS-Aruba.svg"
    inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
    style=""
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
@@ -27,8 +27,8 @@
      inkscape:pagecheckerboard="0"
      showgrid="false"
      inkscape:zoom="0.5536265"
-     inkscape:cx="261.90943"
-     inkscape:cy="493.11223"
+     inkscape:cx="281.77842"
+     inkscape:cy="348.61048"
      inkscape:window-width="1366"
      inkscape:window-height="697"
      inkscape:window-x="-8"
@@ -41,7 +41,7 @@
      d="M 381.61176,238.72516 H 0 V 0 h 381.61176 z"
      fill="#ffffff"
      id="path2256"
-     style="fill:#333333;stroke:none;opacity:0.41707317"
+     style="fill:#333333;stroke:none"
      class="tmOwnPMf_0" />
   <path
      d="M 381.61176,238.72516 H 0 V 0 H 381.61176 Z M 1.74252,236.98264 H 379.86924 V 1.74252 H 1.74252 Z"
@@ -53,13 +53,13 @@
      d="M 333.49489,499.4108 H 115.67996 V 260.68564 h 217.81493 z"
      fill="#ffffff"
      id="path2260"
-     style="opacity:0.412195;fill:#333333;stroke:none"
+     style="fill:#333333;stroke:none"
      class="tmOwnPMf_2" />
   <path
      d="M 333.49489,499.4108 H 115.67996 V 260.68564 H 333.49489 Z M 117.42248,497.66828 H 331.75237 V 262.42815 H 117.42248 Z"
      fill="#3f3d56"
      id="path2262"
-     style="stroke:none;stroke-opacity:1;stroke-width:0.623622;stroke-miterlimit:4;opacity:0.68536585;fill:#333333"
+     style="stroke:none;stroke-opacity:1;stroke-width:0.623622;stroke-miterlimit:4"
      class="tmOwnPMf_3" />
   <path
      width="45.305511"
@@ -107,7 +107,7 @@
      d="M 622.01042,366.34135 H 404.19549 V 127.61576 h 217.81493 z"
      fill="#ffffff"
      id="path2276"
-     style="fill:#333333;stroke:none;opacity:0.41219512"
+     style="fill:#333333;stroke:none"
      class="tmOwnPMf_10" />
   <path
      d="M 622.01042,366.34135 H 404.19549 V 127.61576 h 217.81493 z m -216.07241,-1.7425 H 620.2679 V 129.35828 H 405.93801 Z"
